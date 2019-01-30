@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Lab3_Stopwatch</string>
+    <!-- Note this can be different from our project name -->
+    <string name="app_name">Stop Watch</string>
+    <string name="btnLap">LAP</string>
+    <string name="lblPause">PAUSE</string>
+    <string name="lblStart">START</string>
+    <string name="lblReset">RESET</string>
+    <string name="lblTimer">0:00:000</string>
 </resources>
