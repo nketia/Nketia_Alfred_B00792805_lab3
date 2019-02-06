@@ -99,7 +99,7 @@ public class    MainActivity extends AppCompatActivity {
                 if (stopWatchStarted && !stopWatchPaused) {
                     String lapTime = minutes + ":"
                             + String.format("%02d", seconds) + ":"
-                            + String.format("%03", milliSeconds);
+                            + String.format("%03d", milliSeconds);
 
                     itemsAdapter.add(lapTime);
 
